@@ -22,7 +22,7 @@ the City to more effectively respond to new and/or changing requirements by proa
 processes, organization, people, and infrastructure, in conjunction with the establishment of a more 
 thorough process for the governance of the City-wide use of information technology.
 
-
+Screenshot (1336).png
 					            Flowchart
 
 
