@@ -13,7 +13,21 @@ ERP RFP
 
 Section 1 - Introduction
 
+SDI Presence, LLC (SDI) generated this document, titled Information Technology (IT) Strategic Plan, for 
+the City of Gilroy (City) to describe the process utilized to develop the City's IT Strategic Plan and the 
+results of the planning endeavor. The IT Strategic Plan will allow the City to effectively allocate its 
+information technology resources and reap more advantages from its information technology expenditures. 
+The plan does not attempt to predict the future; rather, it provides both a process and a baseline to enable 
+the City to more effectively respond to new and/or changing requirements by proactively adapting 
+processes, organization, people, and infrastructure, in conjunction with the establishment of a more 
+thorough process for the governance of the City-wide use of information technology.
 
+
+					            Flowchart
+
+
+
+				    Methodology for Strategic IT
 
 Section 2 – Executive Summary
 
@@ -28,6 +42,10 @@ closely the City's practices and procedures adhere to a set of IT best practices
 Current IT Environment (below) contains more information regarding the IT Assessment's results;
 However, the assessment found that the City's compliance with IT best practices is lacking.
 The City's compliance with IT best practices (43%) is close to the average (45%) for similar engagements completed by SDI for local governments in the state, as well as the threshold for proactive companies (50 percent ). The IT Assessment Report's findings and suggestions are intended to help the City of Gilroy maintain current service levels while enhancing best practice adherence to a level that reflects a proactive organization.
+
+
+
+
 
 Section 3 – IT Company Background
 
@@ -84,4 +102,14 @@ Section 5:- Development of IT Strategic Plans
 
 Organizations can use strategic planning to strike a balance between present and long-term needs. As a result, the process of developing a strategic plan must take into account the same issues. Change is a perennial cause of stress for public sector executives, who must frequently adjust to growing public expectations and new requirements while working with limited resources and inflexible information technology settings. Organizations who do not have an Information Technology Strategic Plan to use as a baseline for managing and responding to change are more likely to become reactive rather than proactive, resulting in lower returns on their IT investments.
 
-Section 6:- 
+Project List:- 
+The project list was compiled using data gathered during interviews with key City stakeholders, information provided by ITD's manager and staff, and the conclusions and suggestions contained in the IT Assessment Report. All of the stakeholders invited to the Planning and Prioritization Workshop were given the project list, and they provided updates and revisions.
+
+Planning and Prioritization:-
+SDI presented a briefing to familiarize the participants with the IT Assessment findings, the Project List, the workshop objectives and methodology, and the ground rules. The participants then went through a voting exercise to identify the City's highest priority projects, changed and added projects as needed (including adding projects to improve the speed and reliability of the City's Internet connection, establish a data warehouse for CCTV inspection video, and implement a registration system for the Senior Center), and revised the preliminary timeline. The results of the planning session are depicted in Figure 8, Blue Wall Following Workshop. Please note that the handwritten placards indicate initiatives that participants added, while the green dots represent the results of a voting procedure in which each participant was given four green dots to vote for.
+
+
+
+Section 6:- Conclusion
+
+Create a common understanding of the existing state of the City's information technology environment, including infrastructure, business applications, the City's ability to manage and deliver information technology services, and unmet needs. Establish a shared vision for where the City's information technology environment should be in the future, while keeping in mind that, even as the vision was being developed, emerging trends in information technology and public expectations for access to City information and services were evolving and changing the requirements. Create a roadmap that will allow the city to transition its information technology environment from where it is now to where it needs to be in the future.
