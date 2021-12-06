@@ -23,11 +23,11 @@ processes, organization, people, and infrastructure, in conjunction with the est
 thorough process for the governance of the City-wide use of information technology.
 
 ![alt text](https://github.com/bhargavpshah98/Gilroy_Problem/blob/f8849c86926263a4e64e513e4a19e132c218eee3/Screenshot%20(1336).png)
-					            Flowchart
+					           	 Flowchart
 
 
-
-				    Methodology for Strategic IT
+![alt text](https://github.com/bhargavpshah98/Gilroy_Problem/blob/d991ad6d4b8a4fa03d53ac5e00d5cde1341f8824/Screenshot%20(1337).png)
+				    		Methodology for Strategic IT
 
 Section 2 – Executive Summary
 
